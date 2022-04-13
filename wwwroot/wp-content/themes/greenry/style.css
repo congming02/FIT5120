@@ -1,0 +1,90 @@
+/*
+Theme Name: Greenry  
+Theme URI: https://themeansar.com/free-themes/greenry/
+Author: themeansar
+Author URI: https://themeansar.com
+Template: industryup
+Description: Greenry WordPress theme ideal for a business or perfect solutions for all types of factory, Industry, Industrial, Construction, Engineering, Machinery Business, Commodity Business, Power, Rail Business, Airplane, Ship Business, Oil & Gas Business, Petroleum websites, Agricluture. The theme is responsive, WPML, Retina ready, SEO friendly Live preview : https://demos.themeansar.com/industryup/three/
+Version: 0.2
+Tested up to: 5.9
+Requires PHP: 7.0
+Tags: two-columns, three-columns, left-sidebar, right-sidebar, translation-ready, custom-background, custom-logo, featured-images, footer-widgets, full-width-template, blog, e-commerce, entertainment
+License: GNU General Public License v3 or later
+License URI: http://www.gnu.org/licenses/gpl.html
+Text Domain: greenry
+*/
+
+.navbar-wp .navbar-toggler:focus {
+   border: 1px solid #fff;
+}
+/* ---- Header Transparent -----*/
+.bs-trhead {
+    position: absolute;
+    right: 0;
+    left: 0;
+    z-index: 999;
+}
+.bs-slider .bs-slide  {
+    height: 800px;
+    padding-top: 10%;
+}
+.bs-breadcrumb-section .overlay {
+    padding: 300px 0 100px 0;
+}
+@media (max-width: 991.98px) {
+    .container.mobi-menu {
+        display: block;
+        background: unset;
+    }
+}
+/* ------------- */
+
+
+
+.container.mobi-menu + div {
+    height: auto !important;
+}
+
+@media (max-width: 991.98px) {
+    .bs-headwidget.bs-trans-hd  .navbar-wp {
+        padding: 0 10px;        
+    }
+}
+
+@media only screen and (max-width: 640px)
+{
+.site-branding-text .site-title a {
+    color: #fff;
+}
+}
+
+.post_content a, .entry-content a, .comment a {
+    text-decoration: underline;
+}
+
+.post-items ul:not(.post-categories) li a,.post-items ol:not(.post-categories) li a, .post-items table a, strong a, blockquote a, code a, p a, span:not(.author-name):not(.comments-link):not(.posted-on):not(.post-list) a, .navigation.posts-navigation .nav-links a:hover,
+.navigation.posts-navigation .nav-links a:hover, #cancel-comment-reply-link, .comment-reply-link {
+    text-decoration: underline;
+}
+
+.bs-slider .slide-caption h2
+{
+    font-family: 'Roboto Slab', sans-serif;
+    font-size: 3.75rem;
+}
+.bs-breadcrumb-section .overlay {
+    padding: 150px 0 100px 0;
+}
+a {
+    text-decoration: underline !important;
+}
+h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
+    font-weight: 700;
+    font-family: 'Roboto Slab', sans-serif;
+}
+
+.slide-caption {
+    padding: 20px;
+    border-width: 5px;
+    border-style: solid;
+}
