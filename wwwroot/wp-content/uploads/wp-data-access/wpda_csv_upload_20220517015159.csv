@@ -1,0 +1,79 @@
+,Name ,Sport,Contact,Address,District,Level
+0,Ballarat Gymsports,Gymnastics,03 5336 2605,"Cnr Longley Street and Abattoir Street, Alfredton VIC 3350",Alfredton VIC 3350,Hard
+1,Avondale Heights Tennis Club,Tennis,09 3186 063,"Doyle street Reserve, Cornwall street ,Avondale Heights VIC 3034",Avondale Heights VIC 3034,Middle
+2,RDA Bairnsdale,Riding,08 8354 4555,"Racecourse Road, Bairnsdale VIC 3875",Bairnsdale VIC 3875,Hard
+3,OZ Tenpin Ballarat,Tenpin Bowling,(03) 5331 5610,"901 Doveton St North, Ballarat North VIC 3350",Ballarat North VIC 3350,Simple
+4,Beaconsfield Tennis Club,Tennis,0412 682 569,"55 Old Princes Highway, Beaconsfield VIC 3807",Beaconsfield VIC 3807,Middle
+5,Oz Tenpin Geelong Bowling,Tenpin Bowling,(03) 5241 2200,"49 Reynolds Rd, Belmont VIC 3216",Belmont VIC 3216,Simple
+6,Bendigo Bowling Centre,Tenpin Bowling,(03)54439944,"159 Hargreaves Street, Bendigo VIC 3550",Bendigo VIC 3550,Simple
+7,Berwick Leisure Centre YMCA,Gymnastics,(03) 9707 3371,"79 Manuka Road, Berwick VIC 3806",Berwick VIC 3806,Hard
+8,Zone Bowling Boronia,Tenpin Bowling,03 9021 1418,"125 Boronia Rd, Boronia VIC 3155",Boronia VIC 3155,Simple
+9,Freccia Azzurra Club,Bocce,(03) 9701-8888,"784-796 Springvale Road, Braeside VIC 3195",Braeside VIC 3195,Hard
+10,Veneto Club,Bocce,9850 7111,"191 Bulleen Road, Bulleen VIC 3105",Bulleen VIC 3105,Hard
+11,RDA Bundoora Park,Riding,08 8354 4555,"1069 Plenty Road, Bundooa VIC 3083",Bundooa VIC 3083,Hard
+12,RDA Cobram,Riding,08 8354 4555,"16 Bank Street, Cobram VIC 3644",Cobram VIC 3644,Hard
+13,Colac Tenpin Bowl,Tenpin Bowling,(03) 5231 4100,"86 Murray Street, Colac VIC 3250",Colac VIC 3250,Simple
+14,RDA Western Port,Riding,08 8354 4555,"Woolleys Road Equestrian Reserve, Crib Point VIC 3919",Crib Point VIC 3919,Hard
+15,Dandenong Oasis,Aquatics,9767 3100,"Heatherton Road & Cleeland Street, Dandenong VIC 3175",Dandenong VIC 3175,Middle
+16,Dandenong Stadium,Basketball,(03) 9794 7192,"270 Stud Road, Dandenong VIC 3175",Dandenong VIC 3175,Middle
+17,RDA Daylesford,Riding,08 8354 4555,"Boomerang Ranch, Ranch Road, Daylesford VIC 3460",Daylesford VIC 3460,Hard
+18,BTYC Gymnastics,Gymnastics,(03) 9841 4773,"360 Springvale Road, Donvale VIC 3111",Donvale VIC 3111,Hard
+19,RDA Horsham,Riding,08 8354 4555,"96-98 Riverside Road, Dooen VIC 3401",Dooen VIC 3401,Hard
+20,RDA Doveton,Riding,08 8354 4555,"182 Kidds Road, Doveton VIC 3177",Doveton VIC 3177,Hard
+21,YMCA Eaglehawk Leisure Centre,Aquatics,03 5446 9222,"Napier Street, Eaglehawk VIC 3556",Eaglehawk VIC 3556,Middle
+22,Nunawading Basketball Stadium,Basketball,(03) 9802 671,"Nunawading Basketball Centre, East Burwood Reserve, Burwood Highway, East Burwood VIC 3151",East Burwood VIC 3151,Middle
+23,RDA Echuca,Riding,08 8354 4555,"Echuca Racecourse, Murray Valley Highway, Echuca VIC 3564",Echuca VIC 3564,Hard
+24,Echuca War Memorial Aquatic Centre,Swimming,03 5483 9698,"Corner of High and Service Streets, Echuca VIC 3564",Echuca VIC 3564,Simple
+25,RDA Colac,Riding,08 8354 4555,"Adult Riding Club, Colac-Lavers Hill Road, Elliminyt VIC 3250",Elliminyt VIC 3250,Hard
+26,Special Olympics Club,Basketball,411239575,"40 Brougham Street, Eltham VIC 3095",Eltham VIC 3095,Middle
+27,Endeavour Hills YMCA,Gymnastics,(03) 9213 1400,"10 Raymond McMahon Boulevard, Endeavour Hills VIC 3802",Endeavour Hills VIC 3802,Hard
+28,Victoria University Aquatics Centre,Aquatics,03 9919 4460,"Footscray Park Campus, Ballarat Road, Footscray VIC 3011",Footscray VIC 3011,Middle
+29,Frankston South Community Centre,Basketball,0409 542 238,"55 Towerhill Road, Frankston South VIC 3199",Frankston South VIC 3199,Middle
+30,Ballam Park athletics track,Athletics,0401 491 480,"Ballam Park, Benanee Road, Frankston VIC 3199",Frankston VIC 3199,Simple
+31,Monash Aquatic and Recreation Centre,Swimming,(03) 9265 4888,"626 Waverley Road, Glen Waverley VIC 3150",Glen Waverley VIC 3150,Simple
+32,RDA Terang,Riding,08 8354 4555,"Glenormiston College,Noorat Road, Glenormiston South  VIC 3265",Glenormiston South  VIC 3265,Hard
+33,RDA Portland,Riding,08 8354 4555,"211 Hodgetts Road, Gorae VIC 3305",Gorae VIC 3305,Hard
+34,RDA Oaklands,Riding,08 8354 4555,"Oaklands Hunt Club, 1040 Somerton Road, Greenvale VIC 3059",Greenvale VIC 3059,Hard
+35,Jets Gymnastics Grovedale,Gymnastics,03 4206 0064,"12 Essington St, Grovedale VIC 3216",Grovedale VIC 3216,Hard
+36,RDA Hamilton,Riding,08 8354 4555,"Hamilton & Alexandra College Equestrian Centre, North Boundary Road, Hamilton VIC 3300",Hamilton VIC 3300,Hard
+37,Waves Leisure Centre,Aquatics,9559 7111,"111 Chesterville Rd, Highett VIC 3190",Highett VIC 3190,Middle
+38,RDA Warrnambool,Riding,08 8354 4555,"High View Horse Complex, Illowa Road, Illowa VIC 3282",Illowa VIC 3282,Hard
+39,Midlands Golf Club,Golf,0400 487 198,"330 Heinz Lane, Invermay Park VIC 3350",Invermay Park VIC 3350,Middle
+40,Ballarat Aquatic Centre,Aquatics,(03) 5334 2499,"Prince of Wales Recreation Reserve, Gillies Street, Lake Gardens VIC 3350",Lake Gardens VIC 3350,Middle
+41,RDA Bendigo,Riding,08 8354 4555,"32 Hannans Road, Mandurang South VIC 3551",Mandurang South VIC 3551,Hard
+42,Tenpin Bowling Australia,Bowling,(07) 3262 4455,"Unit 7/2 Kent Pl, South Melbourne VIC 3205",Melbourne VIC 3205,Middle
+43,Moonee Valley Athletics Track,Athletics,03 9243 8888,"Corio Street, Moonee Ponds VIC 3039",Moonee Ponds VIC 3039,Simple
+44,RDA Moorabbin,Riding,08 8354 4555,"Dingley Bypass, Barkers Road, Moorabbin VIC 3189",Moorabbin VIC 3189,Hard
+45,ZONE BOWLING Moorabbin,Tenpin Bowling,03 9021 1403,"938 Nepean Hwy, Moorabbin VIC 3189",Moorabbin VIC 3189,Simple
+46,RDA Peninsula,Riding,08 8354 4555,"1135 Moorooduc Road, Moorooduc VIC 3933",Moorooduc VIC 3933,Hard
+47,Mordialloc Community Centre,Gymnastics,9580 3675,"115A Warren Rd, Mordialloc VIC 3195",Mordialloc VIC 3195,Hard
+48,Parkdale Secondary College,Basketball,03 9580-6311,"116 Warren Rd, Mordialloc VIC 3195",Mordialloc VIC 3195,Middle
+49,Mornington Tennis Centre,Tennis,0359 756 124,"350 Dunns Road, Mornington VIC 3931",Mornington VIC 3931,Middle
+50,RDA Mornington Carriage Driving,Riding,08 8354 4555,"Mornington Racecourse, Mornington VIC 3931",Mornington VIC 3931,Hard
+51,RDA Ballarat,Riding,08 8354 4555,"University of Ballarat Equine Centre, Rosehill Road, Mt Rowan VIC 3352",Mt Rowan VIC 3352,Hard
+52,RDA Myrtleford,Riding,08 8354 4555,"36 Clyde Street, Myrtleford VIC 3737",Myrtleford VIC 3737,Hard
+53,Oz Tenpin Narre Warren SuperBowl,Tenpin Bowling,(03) 9704 2955,"22 Lauderdale Road, Narre Warren VIC 3805",Narre Warren VIC 3805,Simple
+54,Leisuretime Sports Precinct,"Athletics, Basketball",03  5272 4990,"262-282 Anakie Rd, Norlane VIC 3214",Norlane VIC 3214,"Simple,Middle"
+55,RDA Pakenham,Riding,08 8354 4555,"775 Five Mile Road, Pakenham VIC 3810",Pakenham VIC 3810,Hard
+56,Mentone Tennis Club,Tennis,400874966,"First St &, Nepean Hwy, Parkdale VIC 3195",Parkdale VIC 3195,Middle
+57,RDA Melton,Riding,08 8354 4555,"976 Leakes Road, Rockbank VIC 3335",Rockbank VIC 3335,Hard
+58,Knox Italian Community Club,Bocce,0418 798 987,"99 Karoo Road, Rowville VIC 3178",Rowville VIC 3178,Hard
+59,RDA Seymour,Riding,08 8354 4555,"Kings Park, Tallarook Street, Seymour VIC 3660",Seymour VIC 3660,Hard
+60,Oz Tenpin Star Bowl,Tenpin Bowling,(03) 5821 5587,"122 Fryers St, Shepparton VIC 3630",Shepparton VIC 3630,Simple
+61,RDA Shepparton,Riding,08 8354 4555,"William Orr GOTAFE Campus, Wanganui Road, Shepparton VIC 3660",Shepparton VIC 3660,Hard
+62,RDA St Andrews,Riding,08 8354 4555,"180 Clintons Road, Smiths Gully VIC 3760",Smiths Gully VIC 3760,Hard
+63,Core 24 Somerville,Aquatics,0403 749 723,"55 Grant Road, Somerville VIC 3912",Somerville VIC 3912,Middle
+64,RDA Stawell,Riding,08 8354 4555,"49 Bulgana Road, Stawell VIC 3380",Stawell VIC 3380,Hard
+65,MSA,Netball,0429 332 008,"98-100 Gray Street, Swan Hill VIC 3585",Swan Hill VIC 3585,Hard
+66,RDA Swan Hill,Riding,08 8354 4555,"21 Tyntynder South Road, Tyntynder South VIC 3586",Tyntynder South 3586,Hard
+67,RDA Viewbank,Riding,08 8354 4555,"332 Banyule Road, Viewbank  VIC 3084",Viewbank  VIC 3084,Hard
+68,RDA Barwon,Riding,08 8354 4555,"Koombahla Park, Wallington Road, Wallington VIC 3221",Wallington VIC 3221,Hard
+69,Wandana Heights Tennis Club,Tennis,(03)52456538,"7A Wandana Dr, Wandana Heights VIC 3216",Wandana Heights VIC 3216,Middle
+70,RDA Knox,Riding,08 8354 4555,Wantirna South VIC 3152,Wantirna South VIC 3152,Hard
+71,RDA Warracknabeal,Riding,08 8354 4555,"Warracknabeal Racecourse, Henty Highway, Warracknabeal VIC 3393",Warracknabeal VIC 3393,Hard
+72,RDA Warragul,Riding,08 8354 4555,"Logan Park, Howitt Street, Warragul VIC 3820",Warragul VIC 3820,Hard
+73,RDA Warrandyte,Riding,08 8354 4555,"72-84 Husseys Lane, Warrandyte VIC 3113",Warrandyte VIC 3113,Hard
+74,Leisurelink Aquatic & Recreation Centre,Aquatics,03 5243 9595,"240 Pioneer Rd, Waurn Ponds VIC 3216",Waurn Ponds VIC 3216,Middle
+75,Ballarat Sports Events Centre,Basketball,5320 5500,"989 Norman Street, Wendouree VIC 3355",Wendouree VIC 3355,Middle
+76,RDA Woolamai,Riding,08 8354 4555,"54 Trew Road, Woolamai  VIC 3995",Woolamai  VIC 3995,Hard
+77,MSA,Netball,0427 780 109,"280 Broadway, Wycheproof VIC 3527",Wycheproof VIC 3527,Hard
